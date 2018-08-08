@@ -9,7 +9,7 @@ counter =  counter + 1
 end
 
 def shake_it_out
-  play_count = 0
+play_count = 0
 while play_count < 5
 puts "Cause the player gonna"
 puts "And the hater's gonna"
