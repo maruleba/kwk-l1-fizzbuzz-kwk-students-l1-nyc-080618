@@ -2,8 +2,8 @@
 # output "step to the left"/ step to the right" 5 times 
 
 counter = 0 
-while counter < 5 
+while counter > 5 
 puts"step to the right"
 puts "step to the left" 
-counter = counter + 1
+counter += 1
 end
