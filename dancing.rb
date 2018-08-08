@@ -5,5 +5,13 @@ counter = 0
 while counter > 5 
 puts"step to the right"
 puts "step to the left" 
-counter += 1
+counter =  counter + 1
 end
+
+def shake_it_out
+  play_count = 0
+while play_count < 5
+puts "Cause the player gonna"
+puts "And the hater's gonna"
+counter = counter + 1 
+end 
