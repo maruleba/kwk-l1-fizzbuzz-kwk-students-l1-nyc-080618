@@ -13,5 +13,5 @@ play_count = 0
 while play_count < 5
 puts "Cause the player gonna"
 puts "And the hater's gonna"
-counter = counter + 1 
+counter = pla + 1 
 end 
